@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaybenu/svg-logo-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaybenu/svg-logo-generator/issues"
+  },
+  "homepage": "https://github.com/sanjaybenu/svg-logo-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
