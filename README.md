@@ -41,7 +41,7 @@ If you do not find the package.json file, please run the following commands on y
 
 After you have run this command, package-lock.json file and node modules folder will be created.
 
-packagelock.png
+<img width="190" alt="packagelock" src="https://user-images.githubusercontent.com/105487471/234522159-e72b7e1c-110b-4184-aaee-dc3895399741.png">
 
 Now you can run the following command.
 
