@@ -80,7 +80,7 @@ Once downloaded successfully, open package.json file and you will find jest list
 
 Go to the script section and ensure jest is written under scripts, against test, if not please add it to the script.
 
-jestinpackagejson.png
+<img width="313" alt="jestinpackagejson" src="https://user-images.githubusercontent.com/105487471/234524373-92037b3c-840e-4019-bd7c-b8548f7eabd0.png">
 
 Run the test using the following command
 
