@@ -74,7 +74,7 @@ youtube link
 ## Tests
 Jest should already be downloaded. Please check package.json file. If you do not find jest under development dependancies please download jest from npm using the following command.
 
-jestdev.png
+<img width="526" alt="jestdev" src="https://user-images.githubusercontent.com/105487471/234524727-8198ec0c-87a4-4160-8cea-9ba4a9fb33f9.png">
 
 Once downloaded successfully, open package.json file and you will find jest listed under the development dependency. 
 
