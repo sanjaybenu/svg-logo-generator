@@ -49,7 +49,7 @@ Now you can run the following command.
 
 You will be asked a few questions about logo you want to generate.
 
-<img width="729" alt="Screenshot7" src="https://user-images.githubusercontent.com/105487471/233835451-7709df8d-ddc3-4109-807c-2f7edce199c5.png">
+<img width="913" alt="questions" src="https://user-images.githubusercontent.com/105487471/234523173-aea2054e-aca2-44f7-99a1-63e2bc797b73.png">
 
 Once all questions have been answered the code for the logo will be generated and will be written to the logo.svg file in the output folder, a sub-folder of folder main.
 
