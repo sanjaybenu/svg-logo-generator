@@ -84,7 +84,7 @@ Go to the script section and ensure jest is written under scripts, against test,
 
 Run the test using the following command
 
-runningtest.png
+<img width="583" alt="running test" src="https://user-images.githubusercontent.com/105487471/234525100-ebb8a3de-0e25-4a22-bbef-f060a03f1aab.png">
 
 if the test runs successfully the following will be shown in the terminal.
 
