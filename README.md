@@ -15,7 +15,8 @@ This app allows the developer to choose shape of the logo, the text within logo 
 
 
 ## Screenshots
-![Alt text](./screenshots/main.png) main
+
+<img width="632" alt="main" src="https://user-images.githubusercontent.com/105487471/234520573-3f783e05-3b18-4dca-96af-e80b05e9a3b0.png">
 
 ## Installation
 Go to the github repository and clone the project into a local directory at your computer.
