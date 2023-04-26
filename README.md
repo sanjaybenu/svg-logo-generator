@@ -53,8 +53,12 @@ You will be asked a few questions about logo you want to generate.
 
 Once all questions have been answered the code for the logo will be generated and will be written to the logo.svg file in the output folder, a sub-folder of folder main.
 
-output.png
-rendered.png
+<img width="360" alt="output" src="https://user-images.githubusercontent.com/105487471/234523834-8c5c910e-0641-485f-9988-b8dafe5cf6d1.png">
+
+<img width="575" alt="svgfile" src="https://user-images.githubusercontent.com/105487471/234523903-96e9e012-1995-42c6-8be4-12f2f062a54b.png">
+
+<img width="428" alt="rendered" src="https://user-images.githubusercontent.com/105487471/234523948-0a614408-4d8b-449f-882a-4c4507f3b4a2.png">
+
 
 ## Usage
 Please refer to section above for the usage.
