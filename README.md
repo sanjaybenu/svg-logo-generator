@@ -34,8 +34,9 @@ Now run the following command in terminal to install dependencies you need for t
 
 If you do not find the package.json file, please run the following commands on your terminal.
 
-npminit.png
-inquirer.png
+<img width="583" alt="npminit" src="https://user-images.githubusercontent.com/105487471/234521809-cb5ed9ae-d800-4285-9a6b-8467817ee79d.png">
+
+<img width="591" alt="inquirer" src="https://user-images.githubusercontent.com/105487471/234521854-65ec694b-3acd-4a9a-b13b-04d7b5b0ef64.png">
 
 
 After you have run this command, package-lock.json file and node modules folder will be created.
