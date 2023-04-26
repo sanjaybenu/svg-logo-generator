@@ -45,7 +45,7 @@ After you have run this command, package-lock.json file and node modules folder 
 
 Now you can run the following command.
 
-<img width="655" alt="Screenshot6" src="https://user-images.githubusercontent.com/105487471/233835428-fe008623-b7a1-4ef0-b06c-775e7a9f84e5.png">
+<img width="595" alt="runcommand" src="https://user-images.githubusercontent.com/105487471/234522893-541b0c27-b3ee-424b-bec7-8d683f8c295e.png">
 
 You will be asked a few questions about logo you want to generate.
 
