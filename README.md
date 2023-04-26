@@ -88,7 +88,7 @@ Run the test using the following command
 
 if the test runs successfully the following will be shown in the terminal.
 
-testpassed.png
+<img width="564" alt="testpassed" src="https://user-images.githubusercontent.com/105487471/234525363-8a30f6b8-2ddc-48fb-ba32-f7e7753013ef.png">
 
 ## Contribute
 This is an open-source project and you are welcome to add features to the project. Please feel free to create a pull request. You may also contact me via link in the questions section for any ideas/concerns you would like to share.
