@@ -25,7 +25,7 @@ https://github.com/sanjaybenu/svg-logo-generator
 
 Before you can start using the app, please ensure you have package.json in your folder. 
 
-packagejson.png
+<img width="263" alt="packagejson" src="https://user-images.githubusercontent.com/105487471/234521112-aa43b681-c2c5-4a7f-aab1-4c5e8a3fdaa8.png">
 
 Now run the following command in terminal to install dependencies you need for the project.
 
