@@ -1,5 +1,8 @@
+// importing classes for tests
+
 const { Shapes, Circle, Polygon, Square } = require('../lib/shapes');
 
+// test for Shapes class
 describe('Shapes', () => {
   test('should create a new instance of Shapes class', () => {
     const shape = new Shapes('#000', '#fff', 2, '#fff', 'Hello');
@@ -16,6 +19,8 @@ describe('Shapes', () => {
   });
 });
 
+
+// test for circle class
 describe('Circle', () => {
   test('should create a new instance of Circle class', () => {
     const circle = new Circle('#000', '#fff', 2, '#fff', 'Hello', 50);
@@ -33,6 +38,8 @@ describe('Circle', () => {
   });
 });
 
+
+// test for polygon class
 describe('Polygon', () => {
   test('should create a new instance of Polygon class', () => {
     const polygon = new Polygon('#000', '#fff', 2, 'Hello', '#fff');
@@ -49,6 +56,8 @@ describe('Polygon', () => {
   });
 });
 
+
+// test for square class
 describe('Square', () => {
   test('should create a new instance of Square class', () => {
     const square = new Square('#000', '#fff', 2, 'Hello', '#fff', 400, 400); expect(square.fill).toBe('#000');

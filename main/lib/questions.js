@@ -1,3 +1,5 @@
+//questions module for inquirer
+
 const questions = [
     {
         type: "list",
@@ -31,12 +33,15 @@ const questions = [
         message: "How thick the border be?(choose a value between 1-5)",
 
     },
+    // if circle is selected as option
     {
         type: "input",
         name: "radius",
         message: "Radius of circle?(choose a value between 50-200)",
         when: (answers) => answers.shape === 'Circle'
     },
+
+    // if square is selected as option
     {
         type: "input",
         name: "width",
@@ -46,4 +51,5 @@ const questions = [
 
 ];
 
+// exporting module
 module.exports = questions

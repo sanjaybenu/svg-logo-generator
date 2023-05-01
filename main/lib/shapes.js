@@ -1,3 +1,5 @@
+//defining parent class
+
 class Shapes {
     fill;
     stroke;
@@ -18,6 +20,7 @@ class Shapes {
   
 }
   
+// defining children classes
   class Circle extends Shapes {
   
     radius;
@@ -79,5 +82,5 @@ class Shapes {
     }
 }
   
-  
+// exporting module  
 module.exports = { Shapes, Circle, Polygon, Square }
